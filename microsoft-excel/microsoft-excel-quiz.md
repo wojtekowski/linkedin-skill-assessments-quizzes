@@ -1244,3 +1244,10 @@ https://support.microsoft.com/en-us/office/print-headings-or-titles-on-every-pag
 - [ ] a named constant
 - [ ] a worksheet function
 - [ ] a defined formula name
+
+#### Q140. What is the best way to ensure that a chart incorporates new data as soon as the data arrives?
+
+- [ ] Right-click the chart and select Refresh.
+- [x] Select the chart. Select the Data tab, then Refresh All in the Queries & Connections group.
+- [ ] Base the chart on a PivotTable.
+- [ ] Base the chart on data formatted as an Excel table.
